@@ -1,7 +1,0 @@
-giterminismConfigVersion: 1
-config:
-  allowUncommitted: false
-  goTemplateRendering:
-    allowEnvVariables:
-      - PULL_USER
-      - PULL_PERSONAL_ACCESS_KEY

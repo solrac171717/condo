@@ -1,9 +1,0 @@
-/* AUTOGENERATE MARKER <CONST> */
-const {{ convertSnakeCaseToUpperCase(name) }}_FIELDS = `{ {% for field in signature %}{{ field.name }}{% if field.isRelation %} { id }{% endif %}{% if not loop.last %} {% endif %}{% endfor %} ${COMMON_FIELDS} }`
-const {{ name }} = generateGqlQueries('{{ name }}', {{ convertSnakeCaseToUpperCase(name) }}_FIELDS)
-
-/**/
-
-/* AUTOGENERATE MARKER <EXPORTS> */
-    {{ name }},
-/**/

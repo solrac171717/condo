@@ -1,0 +1,8 @@
+# Dependencias de FacturaPro (todo el procesamiento es LOCAL)
+PyMuPDF>=1.24          # lectura de PDF (extracción de texto + render para OCR)
+openpyxl>=3.1          # generación del Excel de salida
+customtkinter>=5.2     # interfaz moderna para Windows
+pytesseract>=0.3.10    # bindings de Tesseract (OCR local, requiere binario tesseract)
+pillow>=10.0           # imágenes para OCR
+pytest>=8.0            # tests (solo desarrollo)
+pyinstaller>=6.0       # construcción del .exe (solo empaquetado; ver requirements-build.txt)

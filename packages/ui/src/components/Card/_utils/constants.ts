@@ -1,1 +1,0 @@
-export const CARD_CLASS_PREFIX = 'condo-card'

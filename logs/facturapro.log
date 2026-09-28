@@ -1,0 +1,76 @@
+2026-09-28 20:23:57 | INFO    | facturapro.pdf | Leído factura_001.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:23:57 | INFO    | facturapro.service | Procesado factura_001.pdf -> REVISAR
+2026-09-28 20:23:57 | INFO    | facturapro.pdf | Leído factura_002.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:23:57 | INFO    | facturapro.service | Procesado factura_002.pdf -> REVISAR
+2026-09-28 20:23:57 | INFO    | facturapro.pdf | Leído factura_003.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:23:57 | INFO    | facturapro.service | Procesado factura_003.pdf -> OK
+2026-09-28 20:23:57 | INFO    | facturapro.pdf | Leído factura_004.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:23:57 | INFO    | facturapro.service | Procesado factura_004.pdf -> REVISAR
+2026-09-28 20:23:57 | INFO    | facturapro.pdf | Leído factura_005.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:23:57 | INFO    | facturapro.service | Procesado factura_005.pdf -> REVISAR
+2026-09-28 20:23:57 | WARNING | facturapro.pdf | No se pudo abrir el PDF factura_corrupta.pdf: Failed to open file 'sample_invoices/factura_corrupta.pdf' as type pdf.
+2026-09-28 20:23:57 | INFO    | facturapro.service | Procesado factura_corrupta.pdf -> ERROR
+2026-09-28 20:24:02 | INFO    | facturapro.pdf | Leído factura_001.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:24:02 | INFO    | facturapro.pdf | Leído factura_002.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:24:02 | INFO    | facturapro.pdf | Leído factura_004.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:24:02 | INFO    | facturapro.pdf | Leído factura_005.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:58:42 | INFO    | facturapro.pdf | Leído factura_001.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:58:42 | INFO    | facturapro.service | Procesado factura_001.pdf -> REVISAR
+2026-09-28 20:58:42 | INFO    | facturapro.pdf | Leído factura_002.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:58:42 | INFO    | facturapro.service | Procesado factura_002.pdf -> REVISAR
+2026-09-28 20:58:42 | INFO    | facturapro.pdf | Leído factura_003.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:58:42 | INFO    | facturapro.service | Procesado factura_003.pdf -> OK
+2026-09-28 20:58:42 | INFO    | facturapro.pdf | Leído factura_004.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:58:42 | INFO    | facturapro.service | Procesado factura_004.pdf -> REVISAR
+2026-09-28 20:58:42 | INFO    | facturapro.pdf | Leído factura_005.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 20:58:42 | INFO    | facturapro.service | Procesado factura_005.pdf -> REVISAR
+2026-09-28 20:58:42 | WARNING | facturapro.pdf | No se pudo abrir el PDF factura_corrupta.pdf: Failed to open file 'sample_invoices/factura_corrupta.pdf' as type pdf.
+2026-09-28 20:58:42 | INFO    | facturapro.service | Procesado factura_corrupta.pdf -> ERROR
+2026-09-28 21:00:02 | INFO    | facturapro.pdf | Leído factura_escaneada.pdf: 1 páginas, 1 requieren OCR
+2026-09-28 21:00:09 | INFO    | facturapro.service | Procesado factura_escaneada.pdf -> OK
+2026-09-28 21:00:09 | INFO    | facturapro.pdf | Leído foto_factura.jpg: 1 páginas, 1 requieren OCR
+2026-09-28 21:00:13 | INFO    | facturapro.service | Procesado foto_factura.jpg -> OK
+2026-09-28 21:00:16 | INFO    | facturapro.pdf | Leído factura_001.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:16 | INFO    | facturapro.service | Procesado factura_001.pdf -> REVISAR
+2026-09-28 21:00:16 | INFO    | facturapro.pdf | Leído factura_002.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:16 | INFO    | facturapro.service | Procesado factura_002.pdf -> REVISAR
+2026-09-28 21:00:16 | INFO    | facturapro.pdf | Leído factura_003.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:16 | INFO    | facturapro.service | Procesado factura_003.pdf -> OK
+2026-09-28 21:00:16 | INFO    | facturapro.pdf | Leído factura_004.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:16 | INFO    | facturapro.service | Procesado factura_004.pdf -> REVISAR
+2026-09-28 21:00:16 | INFO    | facturapro.pdf | Leído factura_005.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:16 | INFO    | facturapro.service | Procesado factura_005.pdf -> REVISAR
+2026-09-28 21:00:16 | WARNING | facturapro.pdf | No se pudo abrir el documento factura_corrupta.pdf: Failed to open file 'sample_invoices/factura_corrupta.pdf' as type pdf.
+2026-09-28 21:00:16 | INFO    | facturapro.service | Procesado factura_corrupta.pdf -> ERROR
+2026-09-28 21:00:46 | INFO    | facturapro.pdf | Leído factura_001.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:46 | INFO    | facturapro.service | Procesado factura_001.pdf -> REVISAR
+2026-09-28 21:00:46 | INFO    | facturapro.pdf | Leído factura_002.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:46 | INFO    | facturapro.service | Procesado factura_002.pdf -> REVISAR
+2026-09-28 21:00:46 | INFO    | facturapro.pdf | Leído factura_003.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:46 | INFO    | facturapro.service | Procesado factura_003.pdf -> OK
+2026-09-28 21:00:46 | INFO    | facturapro.pdf | Leído factura_004.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:46 | INFO    | facturapro.service | Procesado factura_004.pdf -> REVISAR
+2026-09-28 21:00:46 | INFO    | facturapro.pdf | Leído factura_005.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:00:46 | INFO    | facturapro.service | Procesado factura_005.pdf -> REVISAR
+2026-09-28 21:00:46 | WARNING | facturapro.pdf | No se pudo abrir el documento factura_corrupta.pdf: Failed to open file 'sample_invoices/factura_corrupta.pdf' as type pdf.
+2026-09-28 21:00:46 | INFO    | facturapro.service | Procesado factura_corrupta.pdf -> ERROR
+2026-09-28 21:00:47 | INFO    | facturapro.pdf | Leído factura_escaneada.pdf: 1 páginas, 1 requieren OCR
+2026-09-28 21:00:54 | INFO    | facturapro.service | Procesado factura_escaneada.pdf -> OK
+2026-09-28 21:00:54 | INFO    | facturapro.pdf | Leído foto_factura.jpg: 1 páginas, 1 requieren OCR
+2026-09-28 21:00:57 | INFO    | facturapro.service | Procesado foto_factura.jpg -> OK
+2026-09-28 21:01:14 | INFO    | facturapro.pdf | Leído factura_001.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:01:14 | INFO    | facturapro.service | Procesado factura_001.pdf -> OK
+2026-09-28 21:01:14 | INFO    | facturapro.pdf | Leído factura_002.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:01:14 | INFO    | facturapro.service | Procesado factura_002.pdf -> OK
+2026-09-28 21:01:14 | INFO    | facturapro.pdf | Leído factura_003.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:01:14 | INFO    | facturapro.service | Procesado factura_003.pdf -> OK
+2026-09-28 21:01:14 | INFO    | facturapro.pdf | Leído factura_004.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:01:14 | INFO    | facturapro.service | Procesado factura_004.pdf -> REVISAR
+2026-09-28 21:01:14 | INFO    | facturapro.pdf | Leído factura_005.pdf: 1 páginas, 0 requieren OCR
+2026-09-28 21:01:14 | INFO    | facturapro.service | Procesado factura_005.pdf -> REVISAR
+2026-09-28 21:01:14 | WARNING | facturapro.pdf | No se pudo abrir el documento factura_corrupta.pdf: Failed to open file 'sample_invoices/factura_corrupta.pdf' as type pdf.
+2026-09-28 21:01:14 | INFO    | facturapro.service | Procesado factura_corrupta.pdf -> ERROR
+2026-09-28 21:01:17 | INFO    | facturapro.pdf | Leído factura_escaneada.pdf: 1 páginas, 1 requieren OCR
+2026-09-28 21:01:24 | INFO    | facturapro.service | Procesado factura_escaneada.pdf -> OK
+2026-09-28 21:01:24 | INFO    | facturapro.pdf | Leído foto_factura.jpg: 1 páginas, 1 requieren OCR
+2026-09-28 21:01:28 | INFO    | facturapro.service | Procesado foto_factura.jpg -> OK
