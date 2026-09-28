@@ -1,2 +1,8 @@
-# Logs and temp files
+__pycache__/
+*.pyc
+.pytest_cache/
 logs/
+*.log
+dist/
+build/
+*.spec
