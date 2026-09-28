@@ -1,7 +1,0 @@
-/* AUTOGENERATE MARKER <CONST> */
-const {{ name }} = generateServerUtils('{{ name }}')
-/**/
-
-/* AUTOGENERATE MARKER <EXPORTS> */
-    {{ name }},
-/**/

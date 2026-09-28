@@ -1,0 +1,1 @@
+"""Utilidades comunes de FacturaPro."""

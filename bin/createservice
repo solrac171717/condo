@@ -1,4 +1,0 @@
-#!/usr/bin/env node
-
-const { createservice } = require('@open-condo/codegen')
-createservice(process.argv)

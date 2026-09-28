@@ -1,7 +1,0 @@
-/* AUTOGENERATE MARKER <REQUIRE> */
-const { {{ name }} } = require('./{{ name }}')
-/**/
-
-/* AUTOGENERATE MARKER <EXPORTS> */
-    {{ name }},
-/**/

@@ -1,4 +1,0 @@
-#!/usr/bin/env node
-
-const { createapp } = require('@open-condo/codegen')
-createapp(process.argv)
